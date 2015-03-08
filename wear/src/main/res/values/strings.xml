@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chapter 5</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+
+    <string name="lipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et rutrum ex, et hendrerit purus. Cras dui tortor, bibendum et mollis eget, lobortis quis leo. Mauris elit eros, venenatis at ante eu, pellentesque lacinia mauris. Nam dignissim pellentesque imperdiet. Donec lectus lacus, dapibus ac volutpat ac, hendrerit sed odio. Phasellus ipsum eros, porttitor vitae pulvinar sed, accumsan vitae augue. Integer semper cursus lorem in dictum. Fusce tincidunt sapien sed erat suscipit, ut lacinia mauris aliquet. Curabitur feugiat, nisi vitae porta lacinia, orci velit dignissim eros, vitae dignissim sapien odio euismod dolor.</string>
+</resources>
